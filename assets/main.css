@@ -8,7 +8,7 @@
  *   #fafafa; Background color of the site
  *   #505050; Foreground (text) color of the site
  *   #52739e; Navy, "Template" in the logo, current page in navigation, special titles in the Program
- *   #0352fc; Reddish, "Conference" in the logo, hover color for links
+ *   #2910a3; Reddish, "Conference" in the logo, hover color for links
  *   #7307ad; Heading color, titles in the Program
  *   #3112c9; Dark Goldenrod, color for links
  */
@@ -82,7 +82,7 @@ th,td{
 .bottom-right {font-size:2.33em; color: #fafafa; line-height: 1.5em; width: auto; height: 100px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
 
 /* Conference Title Logo */
-.title1{color: #0352fc; font-size:0.87em; text-shadow: 1px 1px 3px #c0c0c0;} 
+.title1{color: #2910a3; font-size:0.87em; text-shadow: 1px 1px 3px #c0c0c0;} 
 .title2{color: #52739e; font-size:0.87em; text-shadow: 1px 1px 3px #c0c0c0;}
 .year{color: #fafafa; font-size:0.67em; font-weight: lighter;}
 
